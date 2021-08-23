@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grayseon
 - 👀 I’m interested in ... Node.JS development and Minecraft plugin/mod development
-- 🌱 I’m currently learning ... Java development
+- 🌱 I’m currently learning ... SQL
 
 <!---
 Grayseon/Grayseon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
